@@ -1,0 +1,29 @@
+{
+  "name": "El cap de colla",
+  "short_name": "Cap de colla",
+  "description": "Dirigeix la teva colla castellera: assaja castells, gestiona el local, els sponsors i les xarxes, i competeix a Santa Tecla i al Concurs de Tarragona. Joc gratuït al navegador, en català i 9 idiomes més.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1322",
+  "theme_color": "#0d1322",
+  "lang": "ca",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
